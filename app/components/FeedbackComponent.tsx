@@ -5,9 +5,9 @@ export function AnimatedTestimonialsDemo() {
     {
       quote:
         "TrustHire is a decentralized freelancing platform built to bridge the gap between clients and skilled professionals through a secure, transparent, and blockchain-powered ecosystem. This project was created with the vision of making remote collaboration safer, more efficient, and accessible to everyone.",
-      name: "Aryan Mahendru",
+      name: "Raj",
       designation: "Developer of TrustHire",
-      src: "https://github.com/TheAryan77/Shivanshu-s-Project-/blob/main/author2.png?raw=true",
+      src: "https://raw.githubusercontent.com/TheAryan77/Shivanshu-s-Project-/refs/heads/main/WhatsApp%20Image%202026-10-23%20at%2001.39.35.jpeg",
     },
     {
       quote:
@@ -16,13 +16,7 @@ export function AnimatedTestimonialsDemo() {
       designation: "Student at ABES",
       src: "https://github.com/TheAryan77/Shivanshu-s-Project-/blob/main/anmol.png?raw=true",
     },
-    {
-      quote:
-        "I often need helpers for my godown work, but payment and attendance used to be messy. With this platform, tasks are tracked properly and payment happens as agreed. It saves time and avoids misunderstandings.",
-      name: "Nikhil Mahendru",
-      designation: "Founder at Mahendru Pustak Bhandar",
-      src: "https://github.com/TheAryan77/Shivanshu-s-Project-/blob/main/nikhil.png?raw=true",
-    },
+    
     {
       quote:
         "Earlier, we had to wait days or even weeks for payments. With this platform, the work is recorded, and money comes on time after each stage. There is no confusion, no arguments — just fair work and fair pay.",
